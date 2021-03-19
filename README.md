@@ -1,6 +1,6 @@
 # Controlling Robots
 
-A program for controlling robots that move on a table surface. To run the program, you will need to have the files RobotMain.m, robot.m, InputData.txt and InputData2.txt in the same directory.
+A program for controlling robots that move on a table surface. To run the program, you will need to have the files **RobotMain.m**, **robot.m**, **InputData.txt** and **InputData2.txt** in the same directory.
 
 ## Requirements
 
