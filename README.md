@@ -35,7 +35,7 @@ A program for controlling robots that move on a table surface.
 
 ### Test Scenario #1
 
-#### Input data
+#### Input data (see InputData.txt)
 
 ```python3
 5 5
@@ -45,7 +45,7 @@ L M L M L M L M M
 M M R M M R M R R M
 ```
 
-#### Output data
+#### Output data (see OutputData.txt)
 
 ```python3
 1 3 N
@@ -54,7 +54,7 @@ M M R M M R M R R M
 
 ### Test Scenario #2
 
-#### Input data
+#### Input data (see InputData2.txt)
 
 ```python3
 3 6
@@ -64,7 +64,7 @@ M L M M L M R M
 M M L M R M L M
 ```
 
-#### Output data
+#### Output data (see OutputData2.txt)
 
 ```python3
 3 2 E
